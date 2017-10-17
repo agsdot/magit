@@ -1,0 +1,4 @@
+(:name magit-rockstar
+       :type github
+       :pkgname "tarsius/magit-rockstar"
+       :depends (dash magit))
